@@ -8,7 +8,7 @@ node_js:
 git:
   depth: 3
 script:
-  - yarn buld
+  - yarn build
 deploy:
   provider: pages
   skit-cleanup: true
